@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("Hello world");
+	printf("Hello world this is SimulatoR");
+	return 0;
 }
